@@ -1,3 +1,5 @@
+Archieved: v4.0.0 is released making this fork obsolete
+
 # Google Mobile Ads for Flutter
 
 [![google_mobile_ads](https://github.com/googleads/googleads-mobile-flutter/actions/workflows/google_mobile_ads.yaml/badge.svg)](https://github.com/googleads/googleads-mobile-flutter/actions/workflows/google_mobile_ads.yaml)
